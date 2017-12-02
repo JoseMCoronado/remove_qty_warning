@@ -32,14 +32,5 @@ RESPONSIBILITY FOR ANY BEHAVIOR ONCE INSTALLED.
         """,
 
     'depends':['sale_stock'],
-    'data':[
-            'views/ir_sequence.xml',
-            'views/mrp_entry_wizard_views.xml',
-            'views/sale_order_views.xml',
-            'views/mrp_views.xml',
-            'views/sale_workorder_views.xml',
-            'views/product_template_views.xml',
-            'views/ir_model_access.xml',
-            ],
     'installable': True,
 }
